@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Pavlo+%F0%9F%91%8B;Front-End+Developer;Next.js+%7C+React+%7C+TypeScript)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pavlo-Malysh&color=6c63ff&style=flat-square)
+<img src="https://views.whatilearened.today/views/github/Pavlo-Malysh/Pavlo-Malysh.svg?cache=remove" alt="Profile Views" />
 
 </div>
 
@@ -53,12 +53,16 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=github_dark_dimmed&border_radius=10"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavlo-Malysh&theme=github-dark-blue&border_radius=10" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=github_dark_dimmed&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=default&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=github_dark_dimmed&border_radius=10" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
@@ -77,5 +81,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavlo-Malysh&theme=github-compact&hide_border=true&radius=10" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pavlo-Malysh&theme=github-dark&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Pavlo-Malysh&theme=github-light&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavlo-Malysh&theme=github-dark&hide_border=true" alt="Contribution Graph" />
+  </picture>
 </div>
