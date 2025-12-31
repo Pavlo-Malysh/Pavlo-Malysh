@@ -54,16 +54,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pavlo-Malysh&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavlo-Malysh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavlo-Malysh&theme=default" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pavlo-Malysh&theme=github_dark" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=github_dark_dimmed&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=default&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavlo-Malysh&layout=compact&langs_count=8&theme=github_dark_dimmed&border_radius=10" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavlo-Malysh&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavlo-Malysh&theme=default" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pavlo-Malysh&theme=github_dark" alt="Top Languages" />
   </picture>
-</div>
+  </div>
 
 ---
 
